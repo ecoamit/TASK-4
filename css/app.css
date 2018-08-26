@@ -300,7 +300,7 @@ onsale-games action game
 }
 
 #login-modal .modal-dialog {
-    width: 800px;
+    width: auto;
 }
 
 .modal-content {
